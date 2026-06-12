@@ -1,0 +1,8 @@
+streamlit==1.40.2
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-groq==0.2.1
+langchain-core==0.3.17
+sqlalchemy==2.0.35
+pydantic==2.9.2
+pandas==2.2.3
